@@ -1,1 +1,5 @@
-# ga_lab4
+cd GaLab4
+
+dotnet run -c Release
+
+
